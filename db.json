@@ -76,17 +76,30 @@
         "rewards": "10.00",
         "pay_amount": "150.00",
         "balance": "1000.00"
-},
+    },
     "searchResult": {
         "result": [{ "id":1, "status": "Active", "created": "2024-05-09", "label_1": "Any Sale Title1","cash": "160.00","Ra_no": "1234567816541"}, 
             {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "New Title2","cash": "120.00", "Ra_no": "878767564354323"},
-            { "id":1, "status": "Active", "created": "2024-05-09", "label_1": "Any Sale Title3","cash": "160.00","Ra_no": "1234567816541"}, 
+            { "id":1, "status": "Settled", "created": "2024-05-09", "label_1": "Any Sale Title3","cash": "160.00","Ra_no": "1234567816541"}, 
             {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "New Title4","cash": "120.00", "Ra_no": "878767564354323"},
-            { "id":1, "status": "Active", "created": "2024-05-09", "label_1": "Any Sale Title5","cash": "160.00","Ra_no": "1234567816541"}, 
+            { "id":1, "status": "Bin", "created": "2024-05-09", "label_1": "Any Sale Title5","cash": "160.00","Ra_no": "1234567816541"}, 
             {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "New Title6","cash": "120.00", "Ra_no": "878767564354323"},
-            { "id":1, "status": "Active", "created": "2024-05-09", "label_1": "Any Sale Title7","cash": "160.00","Ra_no": "1234567816541"}, 
-            {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "New Title8","cash": "120.00", "Ra_no": "878767564354323"},
+            { "id":1, "status": "Settled", "created": "2024-05-09", "label_1": "Any Sale Title7","cash": "160.00","Ra_no": "1234567816541"}, 
+            {"id":1, "status": "Settled", "created": "2024-05-09", "label_1": "New Title8","cash": "120.00", "Ra_no": "878767564354323"},
             {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "Any Sale Title9","cash": "160.00","Ra_no": "1234567816541"}, 
-            {"id":1, "status": "Active", "created": "2024-05-09", "label_1": "New Title10","cash": "120.00", "Ra_no": "878767564354323"}]
-    }
+            {"id":1, "status": "Bin", "created": "2024-05-09", "label_1": "New Title10","cash": "120.00", "Ra_no": "878767564354323"}]
+    },
+    "products": [
+        { "id": 1, "name": "Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "amount": 0 },
+        { "id": 2, "name": "Pizza", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "amount": 0 },
+        { "id": 3, "name": "Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "amount": 0 },
+        { "id": 4, "name": "Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "amount": 0 },
+        { "id": 5, "name": "Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "amount": 0 },
+        
+        { "id": 6, "name": "Big Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "amount": 0 },
+        { "id": 7, "name": "Big Pizza ", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "amount": 0 },
+        { "id": 8, "name": "Big Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "amount": 0 },
+        { "id": 9, "name": "Big Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "amount": 0 },
+        { "id": 10,"name": "Big Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "amount": 0 }
+    ]
 }
