@@ -1,0 +1,7 @@
+{
+    "uid": [{"value": "4"}],
+    "mail": [{"value": "johndoe@abc.com"}],
+    "field_pin": [{"value": "123" }],
+    "field_phone_number": [{"value": "7672644563" }],
+    "display_name": [{"value": "Test manager"}]
+}

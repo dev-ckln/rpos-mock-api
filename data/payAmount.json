@@ -1,0 +1,23 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYXBpIiwidXNlcl9jbGFzcyI6IlVzZXIiLCJ1c2VyX2",
+    "cmd": "do_transaction",
+    "success": "1",
+    "message": "success",
+    "transaction_id": "12435676879899090",
+    "transaction": [{
+    "success": "1",
+    "message": "Transaction success.",
+            "receipt": "00000-00000-00985",
+            "symbol": "$",
+            "amount": "150.00",
+    "s_account_num": "01400162-00000009",
+    "s_suffix": "SAU 001",
+    "r_account_num": "0140002800000013",
+    "r_suffix": "SAU 001",
+           "date_time": "1643005230.449762"
+    }],
+    "total_amount": "160.00",
+    "rewards": "10.00",
+    "pay_amount": "150.00",
+    "balance": "1000.00"
+}

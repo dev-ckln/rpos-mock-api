@@ -1,0 +1,19 @@
+{
+    "uid": "1",
+    "pin": "1234",
+    "msg": "Pin matched",
+    "account_info": [
+        {
+            "account_id": "22",
+            "suffix": "GAU001",
+            "account_balance" : "$ 1100",
+            "account_number": "00022209889776"
+        },
+        {
+            "account_id": "33",
+            "suffix": "SAU001",
+            "account_balance" : "$ 1000",
+            "account_number": "444576879898808"
+        }
+    ]
+}
