@@ -1,12 +1,12 @@
 [
-    { "id": 1, "name": "Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "qtn": 0, "product_code": "1001" },
-    { "id": 2, "name": "Pizza", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "qtn": 0, "product_code": "1002" },
-    { "id": 3, "name": "Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "qtn": 0, "product_code": "1003" },
-    { "id": 4, "name": "Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "qtn": 0, "product_code": "1004" },
-    { "id": 5, "name": "Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "qtn": 0, "product_code": "1005" },
-    { "id": 6, "name": "Big Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "qtn": 0, "product_code": "1006" },
-    { "id": 7, "name": "Big Pizza ", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "qtn": 0, "product_code": "1007" },
-    { "id": 8, "name": "Big Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "qtn": 0, "product_code": "1008" },
-    { "id": 9, "name": "Big Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "qtn": 0, "product_code": "1009" },
-    { "id": 10,"name": "Big Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "qtn": 0, "product_code": "1010" }
+    { "id": 1, "name": "Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "qtn": 0, "product_code": "1001", "gst": 2.00 },
+    { "id": 2, "name": "Pizza", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "qtn": 0, "product_code": "1002" , "gst": 2.00},
+    { "id": 3, "name": "Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "qtn": 0, "product_code": "1003", "gst": 1.00 },
+    { "id": 4, "name": "Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "qtn": 0, "product_code": "1004", "gst": 1.00 },
+    { "id": 5, "name": "Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "qtn": 0, "product_code": "1005", "gst": 1.00 },
+    { "id": 6, "name": "Big Hamburger", "description": "Juicy beef patty on a fresh bun with all the fixings", "price": 5.99, "image": "https://source.unsplash.com/900x900/?burger", "qtn": 0, "product_code": "1006", "gst": 2.00 },
+    { "id": 7, "name": "Big Pizza ", "description": "Freshly made pizza with your choice of toppings", "price": 9.99, "image": "https://source.unsplash.com/900x900/?pizza", "qtn": 0, "product_code": "1007", "gst": 3.00},
+    { "id": 8, "name": "Big Salad", "description": "Fresh greens and veggies with your choice of dressing", "price": 4.99, "image": "https://source.unsplash.com/900x900/?salad", "qtn": 0, "product_code": "1008", "gst": 0 },
+    { "id": 9, "name": "Big Fries", "description": "Crispy and delicious, perfect as a side or on their own", "price": 2.99, "image": "https://source.unsplash.com/900x900/?fries", "qtn": 0, "product_code": "1009", "gst": 0 },
+    { "id": 10,"name": "Big Ice Cream", "description": "Rich and creamy, the perfect dessert any time of day", "price": 3.99, "image": "https://source.unsplash.com/900x900/?icecream", "qtn": 0, "product_code": "1010", "gst": 1 }
 ]
